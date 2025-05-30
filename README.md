@@ -6,7 +6,8 @@ This project show the fiest page of our sales report.
 Here, a summary analysis was done to calculate product sales and others by creating new measures.
 number of countries = DISTINCTCOUNT('northwind customers'[Country])
 We were able to discover that northwood cranberry sauce generated the highesr revenue with the total of 51.09m and a maginal differece of 30.74% anually.
-![Uploading Screenshot (16).png…]()
+![Screenshot (17)](https://github.com/user-attachments/assets/75348eae-1154-4f1d-99cb-8ab9bade9be2)
+
 
 
 
